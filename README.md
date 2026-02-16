@@ -19,3 +19,6 @@ Clear Visual Insights: Designed easy-to-read visuals to support quick HR decisio
 
 # Business Problem
 The company faced employee attrition but lacked clear insights into the key drivers behind it. HR needed a structured way to analyze factors like salary, tenure, department, job role, and satisfaction to identify trends and improve employee retention decisions.
+
+# Screenshot
+https://github.com/ShrutiDharashiokar/Employee-Attrition/blob/main/HR%20attrition%20analytics.png
